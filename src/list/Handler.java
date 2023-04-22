@@ -4,15 +4,10 @@ import java.util.*;
 
 public class Handler {
 
-    private final Scanner scanner;
-
-    public Handler() {
-        scanner = new Scanner(System.in);
-    }
-
-    public List<String> fillList() {
+    public static List<String> fillList() {
+        Scanner scanner = new Scanner(System.in);
         List<String> list = new ArrayList<>();
-        String line;
+        String line = null;
         System.out.println("Enter a lines using enter or end to exit:");
         while (true) {
             line = scanner.nextLine();
@@ -22,9 +17,9 @@ public class Handler {
         return list;
     }
 
-    public static <T> void printList(List<T> list) {
+    public static void printList(List<String> list) {
         System.out.println("List:");
-        for (T temp : list) {
+        for (String temp : list) {
             System.out.println(temp);
         }
     }
