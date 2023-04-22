@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e0a5cd-38a0-43c5-a936-0e4c63518c6b" name="Changes" comment="Java Advanced 2. Collections">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/Handler.java" afterDir="false" />
-    </list>
+    <list default="true" id="44e0a5cd-38a0-43c5-a936-0e4c63518c6b" name="Changes" comment="Java Advanced 2. Collections" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671389272664</updated>
-      <workItem from="1682179765741" duration="2890000" />
+      <workItem from="1682179765741" duration="3213000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced 2. Collections">
       <created>1682181584923</created>
@@ -78,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682181787783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Advanced 2. Collections">
+      <created>1682184044390</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682184044390</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
